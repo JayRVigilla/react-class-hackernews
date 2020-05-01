@@ -1,6 +1,6 @@
-import React from 'react';
-import './App.css';
-import SearchForm from "./SearchForm";
+import React from "react";
+import "./App.css";
+// import SearchForm from "./SearchForm";
 import StoryList from "./StoryList";
 
 function App() {
